@@ -1,0 +1,25 @@
+# Python runtime config
+pyvenv.cfg
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database dumps
+# *.backup
+# *.sql
+
+# OS
+# .DS_Store
+# Thumbs.db
